@@ -1,0 +1,1 @@
+# Módulo del sensor de tolva
